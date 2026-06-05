@@ -114,18 +114,12 @@ Cyber Security awareness project completed during CodeAlpha Internship.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charan2228&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charan2228&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=charan2228&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan2228&layout=compact&theme=github_dark" />
 </p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan2228&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
