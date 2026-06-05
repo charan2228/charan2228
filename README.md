@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charan2228/charan2228/main/banner.png" alt="Banner">
-</p>
+ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/charan2228/charan2228/main/logo.jpeg" width="180" alt="Film_Frxmes Logo">
