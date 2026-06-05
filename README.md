@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://logo.jpeg" width="200">
+  <img src="./logo.jpeg" width="200">
 </p>
 
 <h1 align="center">Film_Frxmes 🎬</h1># Hi, I'm Sai Sri Charan 👋
