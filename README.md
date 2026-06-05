@@ -1,4 +1,8 @@
-# Hi, I'm Sai Sri Charan 👋
+<p align="center">
+  <img src="https://your-logo-link-here.png" width="200">
+</p>
+
+<h1 align="center">Film_Frxmes 🎬</h1># Hi, I'm Sai Sri Charan 👋
 
 🎓 Computer Science Student at GITAM University
 
