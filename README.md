@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charan2228/charan2228/main/logo.jpeg" width="200">
+  <img src="https://raw.githubusercontent.com/charan2228/charan2228/main/logo.jpeg" width="180">
 </p>
 
 <h1 align="center">🎬 Film_Frxmes</h1>
@@ -7,11 +7,11 @@
 <h3 align="center">Sai Sri Charan Yerramsetty</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Cyber+Security+Enthusiast;Photographer;Filmmaker;Founder+of+Film_Frxmes" />
+Full Stack Developer • Cyber Security Enthusiast • Filmmaker • Photographer
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charan2228&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Cyber+Security+Enthusiast;Founder+of+Film_Frxmes;Photographer+and+Filmmaker" />
 </p>
 
 ---
@@ -20,36 +20,40 @@
 
 🎓 Computer Science Engineering Student at GITAM University
 
-💻 Full-Stack Developer & Cyber Security Enthusiast
+💻 Full Stack Developer
+
+🔒 Cyber Security Enthusiast
 
 🎬 Founder of Film_Frxmes
 
 📸 Photographer & Cinematic Storyteller
 
-🚀 Passionate about building software and creating visual experiences
+🚀 Passionate about technology, creativity and visual storytelling
 
 ---
 
 ## 🌟 About Me
 
-- 🌱 Currently learning Full Stack Development
-- 🔒 Exploring Cyber Security & Ethical Hacking
+- 🌱 Learning Full Stack Development
+- 🔒 Exploring Cyber Security
 - 🎥 Creating cinematic content through Film_Frxmes
 - 📷 Event, Portrait & Creative Photography
 - 🎯 Open to internships and freelance opportunities
-- 💡 Love combining technology with creativity
+- 💡 Combining creativity with technology
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### Web Development
 
@@ -77,7 +81,7 @@
 
 🎨 Visual Branding
 
-🌐 Portfolio:
+🌐 Portfolio
 
 https://filmfrxmes-vv4d.vercel.app
 
@@ -89,13 +93,13 @@ https://filmfrxmes-vv4d.vercel.app
 Interactive Snake Game built using JavaScript.
 
 ### 🤖 Tic Tac Toe AI
-AI-powered Tic Tac Toe game using Python.
+AI-powered Tic Tac Toe game built using Python.
 
 ### 🎯 Hangman Game
-Classic Hangman game with Python.
+Classic Hangman game developed with Python.
 
 ### 🔒 Phishing Awareness Training
-Cyber Security awareness project completed during CodeAlpha Internship.
+Cyber Security awareness project completed during the CodeAlpha Internship.
 
 ---
 
@@ -111,15 +115,15 @@ Cyber Security awareness project completed during CodeAlpha Internship.
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Current Focus
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charan2228&show_icons=true&theme=github_dark&cache_seconds=1800" />
-</p>
+- Full Stack Development
+- Cyber Security
+- Photography
+- Cinematic Storytelling
+- Open Source Contributions
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan2228&layout=compact&theme=github_dark" />
-</p>
+---
 
 ## 🌐 Connect With Me
 
